@@ -77,7 +77,7 @@ You can define a ID.me account as a claims provider by adding it to the **Claims
       <DisplayName>ID.me</DisplayName>
       <TechnicalProfiles>
         <TechnicalProfile Id="IdMe-OAuth2">
-          <DisplayName>IdMe</DisplayName>
+          <DisplayName>IdMe</DisplayName>.
           <Protocol Name="OAuth2" />
           <Metadata>
             <Item Key="ProviderName">api.id.me</Item>
